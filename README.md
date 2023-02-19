@@ -3,9 +3,13 @@ React and Node.js Chat app using Socket.io and MongoDB.
 
 --Features/Components--
 1.Uses React Js for UI
+
 2.Backend using NodeJs
+
 3.Authentication using JWT
+
 4.MongoDB for database
+
 5.Socket.io for realtime communication
 6.CSS – styled components
 
